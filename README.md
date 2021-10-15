@@ -1,4 +1,6 @@
-![Logo SVG](https://i.ibb.co/W2HpB90/AR.gif)
+<img  src="https://i.ibb.co/W2HpB90/AR.gif" width="500px" style="border-radius: 40px"  />
+
+<br> <br> <br>
 
 # I am Armando Rojas 👋
 
