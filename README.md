@@ -1,4 +1,4 @@
-<img  src="https://i.ibb.co/W2HpB90/AR.gif" width="500px" style="border-radius: 40px"  />
+![Logo SVG](https://i.ibb.co/W2HpB90/AR.gif)
 
 <br> <br> <br>
 
@@ -55,9 +55,11 @@
 
 <p  >
     <a href="https://gitstats.me/rojasarmando" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=rojasarmando&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=rojasarmando&hide=contribs,issues&theme=dark&count_private=true&include_all_commits=true&show_icons=true">
     </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&theme=dark&layout=compact&langs_count=100&hide=css,html)](https://github.com/rojasarmando)
 
 <!--[website]: -->
 
