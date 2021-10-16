@@ -59,7 +59,7 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&theme=dark&layout=compact&langs_count=100&hide=css,html,hack,makefile,shell,batchfile,xslt)](https://github.com/rojasarmando)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasarmando&count_private=true&theme=dark&layout=compact&langs_count=100&hide=css,html,hack,makefile,shell,batchfile,xslt)](https://github.com/rojasarmando)
 
 <!--[website]: -->
 
